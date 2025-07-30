@@ -1,4 +1,4 @@
-## Text Embedding Models, Multi Head Attention Implementation and a small RAG implementation (Could be two repos)
+## Text Embedding Models, Multi Head Attention Implementation and a small RAG implementation (could be two repos honestly).
 
   * Embedding Models: Continuous Bag of Words, N-Gram Embedding Model. Small training run and forward pass for both.
   * Multi Head Attention: Transformer Encoder and half a Decoder in pytorch, need to finish writing the decoder. Conceptual comments scattered across.
